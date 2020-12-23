@@ -8,4 +8,5 @@
 8. [Ibaraki subsite](https://www.pref.ibaraki.jp/kenkei/saiyo/ibarakipc_site/index.html) 
 9. [Ibaraki subsite](https://www.pref.ibaraki.jp/kenkei/) 
 10. [Chiba](https://www.pref.chiba.lg.jp/net-tv/) 
-11. [Adachi](https://www.city.adachi.tokyo.jp/) 
+11. [Adachi](https://www.city.adachi.tokyo.jp/) \
+12. [Adachi subsite](https://www.city.adachi.tokyo.jp/sesaku/kyoso/index.html) 
