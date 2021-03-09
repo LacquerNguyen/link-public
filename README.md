@@ -11,3 +11,5 @@
 11. [Adachi](https://www.city.adachi.tokyo.jp/)
 12. [Adachi subsite](https://www.city.adachi.tokyo.jp/sesaku/kyoso/index.html) 
 13. [Tochigi](https://www.pref.tochigi.lg.jp ) ___ [Tochigi/keisatu](https://www.pref.tochigi.lg.jp/keisatu/ ) 
+14. [city.kameoka.kyoto](https://www.city.kameoka.kyoto.jp/hospital/) 
+15. 
