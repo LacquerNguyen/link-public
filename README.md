@@ -14,3 +14,4 @@
 14. [city.kameoka.kyoto](https://www.city.kameoka.kyoto.jp/hospital/) 
 15. [Yokosuka-shi](https://www.city.yokosuka.kanagawa.jp/index.html) 
 16. [Minato-ku](https://www.city.minato.tokyo.jp) 
+17. [chiba-city](https://www.city.chiba.jp/100th/) 
