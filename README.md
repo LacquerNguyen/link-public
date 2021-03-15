@@ -13,3 +13,4 @@
 13. [Tochigi](https://www.pref.tochigi.lg.jp ) ___ [Tochigi/keisatu](https://www.pref.tochigi.lg.jp/keisatu/ ) 
 14. [city.kameoka.kyoto](https://www.city.kameoka.kyoto.jp/hospital/) 
 15. [Yokosuka-shi](https://www.city.yokosuka.kanagawa.jp/index.html) 
+16. [Minato-ku](https://www.city.minato.tokyo.jp) 
