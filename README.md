@@ -18,4 +18,4 @@
 18. [toyama](https://www.pref.toyama.jp/index.html)
 
 # link-public wp  cty Ravigote
-18. [apple-hikkoshi](https://www.apple-hikkoshi.co.jp/recruit/newgrad/)
+19. [apple-hikkoshi](https://www.apple-hikkoshi.co.jp/recruit/newgrad/)
