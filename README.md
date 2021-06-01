@@ -1,4 +1,4 @@
-# link-public
+# link-public Cty Global Design IT
 1. [Nagano](https://www.pref.nagano.lg.jp/)
 2. [Hyogo](http://www.hyogo-ip.or.jp/index.html)
 3. [Fuefuki](https://www.city.fuefuki.yamanashi.jp/)
@@ -16,3 +16,6 @@
 16. [Minato-ku](https://www.city.minato.tokyo.jp) 
 17. [chiba-city](https://www.city.chiba.jp/100th/) 
 18. [toyama](https://www.pref.toyama.jp/index.html)
+
+# link-public wp  cty Ravigote
+18. [apple-hikkoshi](https://www.apple-hikkoshi.co.jp/recruit/newgrad/)
